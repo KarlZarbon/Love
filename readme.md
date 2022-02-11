@@ -1,6 +1,6 @@
 # Love Generator
 
-<img src="github-love.png" width="500" height="500">
+<img src="github-love.png" width="640" height="660">
 
 This sketch reproduce Robert Indiana's ["Love"](https://en.wikipedia.org/wiki/Love_(image))
 artwork with a message of your choice.
