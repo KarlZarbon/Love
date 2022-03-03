@@ -1,6 +1,11 @@
-// Repeat the input message while encoding the 'LOVE' artwork in he result string
-// Karl Zarbon Feb 2022
+/*
+    Author: Karl Zarbon (Feb 2022)
 
+    Repeat the input message while encoding Robert Indiana's 'LOVE' artwork in the result string
+
+    The code is an adaptation of David Ahl original BASIC code 'Love' printed in his book "BASIC Computer Games".
+ 
+*/
 
 
 
